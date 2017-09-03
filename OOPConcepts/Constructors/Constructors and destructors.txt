@@ -1,0 +1,8 @@
+In OOP Contsructor is a power ful concept. After creating the template using the calss definition
+Objects are created using the constructors. Every class has its own default constructors. According 
+to the user's needs constructors can be overloaded passing arugments to the contstuctor definition.
+Further it can be used user defined default values for the contstuctors.
+
+Destrucotrs are used for release the memory used by the constructors. In particular when the constructors 
+are created using the heap this essential to manage the limited space of the main memory.
+

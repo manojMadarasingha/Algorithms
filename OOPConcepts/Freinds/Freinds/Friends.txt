@@ -1,0 +1,3 @@
+Using friends it can use the privat variables and methods of function using another class
+object. However freind method or class declared in a particualr class should intialized after 
+after the above particualr function. 

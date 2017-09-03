@@ -1,0 +1,11 @@
+In inheritance it inherit a variables and methods of a Base class to the 
+Sub class. The protected variables/methods act as priavate members except that
+they could be used inside the sub classes. 
+
+Aslo it is used the scoper resolution operator to change the access modifier of
+a given member.
+
+In ingeritance conturctor of the base class is created first and then the others.
+when it comes to destrucotr it createst the destrucotrs of the sub class first and then 
+the other classes.
+
